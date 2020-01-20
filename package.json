@@ -1,0 +1,18 @@
+{
+  "name": "mernwithgraphql",
+  "version": "1.0.0",
+  "description": "This is a mern app with graphql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aaronmatei",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.9.16",
+    "graphql": "^14.5.8",
+    "graphql-iso-date": "^3.6.1",
+    "nodemon": "^2.0.2",
+    "uuidv4": "^6.0.1"
+  }
+}
