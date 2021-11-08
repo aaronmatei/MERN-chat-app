@@ -9,7 +9,7 @@
   "author": "aaronmatei",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.9.16",
+    "apollo-server": "^2.25.3",
     "graphql": "^14.5.8",
     "graphql-iso-date": "^3.6.1",
     "nodemon": "^2.0.2",
